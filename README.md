@@ -1,9 +1,6 @@
-## Hi there 👋
+About Me
 
-<!--
-**Flissd1795/Flissd1795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Driven Junior Software Engineer currently undertaking a six-month intensive coding bootcamp at Makers, set to complete on May 9th 2025. With seven years of experience as a Prospect Researcher in the charity sector, I bring a strong analytical mindset, problem-solving abilities, and excellent communication skills to software development. Highly adaptable and eager to learn, I thrive in collaborative environments and continuously seek opportunities to expand my technical expertise.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
